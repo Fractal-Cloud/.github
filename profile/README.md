@@ -2,14 +2,14 @@
 
 Infrastructure should accelerate development, not slow it down.
 
-Fractal Cloud is a platform engineering solution that lets developers provision secure, compliant infrastructure across any cloud.  
+Fractal Cloud is a platform engineering solution that lets Operation team, Platform team and Developers provision secure, compliant infrastructure across any cloud.  
 Without deep cloud specialization, without handwritten templates, and without waiting on manual infrastructure processes.
 
 ## How it works
 
 The core unit is a **Fractal**: a reusable, governed infrastructure construct that bundles blueprints, security standards, and operational workflows into a single abstraction. Fractals are instantiated into **Live Systems**, running environments that stay governed, observable, and policy-aligned over time.
 
-The **Fractal Automation Engine** handles provisioning, lifecycle management, drift detection, and compliance enforcement automatically. Platform teams define the standards. Developers get self-service access. Everyone stays in control.
+The **Fractal Automation Engine** handles provisioning, lifecycle management, drift detection, and compliance enforcement automatically. Platform teams define the standards. Developers get self-service access. Platform teams retain governance while developers move faster.
 
 ## Who it's for
 
