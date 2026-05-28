@@ -19,9 +19,9 @@ Platform and operations teams get centralized governance, reusable standards, an
 
 Enterprises get multi-cloud flexibility, faster time-to-market, and a consistent security posture across every environment.
 
-## Built different
+## A different infrastructure model
 
-Fractal Cloud does not rely on handwritten Terraform, CloudFormation, or Bicep. Infrastructure is defined through the Fractal SDK and managed entirely through Fractal abstractions, a fundamentally different model from traditional Infrastructure-as-Code.
+Infrastructure is defined through the Fractal Canvas, Fractal SDK or API and managed through the Fractal Automation Engine using Fractal abstractions instead of handwritten Infrastructure-as-Code templates.
 
 ---
 
